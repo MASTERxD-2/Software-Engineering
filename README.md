@@ -1,1 +1,2 @@
-**This Repository talks about GitHub, and Code Control and Version Control
+### This Repository talks about GitHub, and Code Control and Version Control
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This assignment teaches you essentials of GitHub like repositories, branches, commits, and pull requests. You'll create your own ‘Hello World’ repository and learn GitHub's pull request workflow, a popular way to create and review code. GIT is a versioning software, and GitHub is something built on top of GIT (You use the GitHub client – it provides a web interface, for you to interact and work with GIT). You can use Git without GitHub but you cannot use GitHub without Git
